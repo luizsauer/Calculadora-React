@@ -45,21 +45,6 @@ O projeto será iniciado no navegador no endereço http://localhost:3000/.
 ![image](https://github.com/user-attachments/assets/215da61a-c27d-4e9c-bcf3-4b0537c4730b)
 
 
-🏗️ Estrutura do Projeto
-
-/src
-├── components
-│   ├── Button
-│       ├── index.js
-│       ├── styles.js
-│   ├── Input
-│       ├── index.js
-│       ├── styles.js
-├── App.js
-├── Global.js
-├── index.js
-├── styles.js
-
 📜 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e modificá-lo!
